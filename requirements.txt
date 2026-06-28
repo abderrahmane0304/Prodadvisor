@@ -1,0 +1,11 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+altair>=5.0.0
+prophet>=1.1.0
+numpy>=1.24.0
+fpdf2>=2.7.0
+scikit-learn>=1.2.0
+mistralai>=1.0.0
+nixtla
+xgboost
+python-dotenv
